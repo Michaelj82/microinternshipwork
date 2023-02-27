@@ -1,3 +1,3 @@
 # microinternshipwork
 Work for Open Avenues Microinternship
-https://michaelj82.github.io/microinternshipwork/
+NLP to develop medical radiology information reports
