@@ -1,10 +1,14 @@
-# microinternshipwork
-Work for Open Avenues Microinternship
-NLP to develop medical radiology information reports
-
+# Radiology Data Identification
+Work for Open Avenues Microinternship in which we use NLP and Machine Learning to identify text in radiology information reports. 
 
 Each week has different assignments in a jupyter notebook
 
-Includes exploratory data analysis, TF-IDF embeddings, Word 2 Vec, etc.
+### What did I do?
+During this process, I...
+* Did exploratory data analysis
+* Learned more about NLP and embeddings (TF-IDF, Word2Vec, etc.)
+* Explored more in Machine Learning
+* Collaborated with a project leader
 
-Medium Post: https://medium.com/@mjj.yoyogi/micro-internship-develop-nlp-models-for-medical-data-extraction-55ac2193e070
+### Medium post
+https://medium.com/@mjj.yoyogi/micro-internship-develop-nlp-models-for-medical-data-extraction-55ac2193e070
